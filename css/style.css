@@ -12,6 +12,9 @@ form label {
     display: block;
     margin: 0px 0px 15px 0px;
 }
+:root {
+  color-scheme: light dark; /* both supported */
+}
 form label > span {
     width: 25%;
     float: left;
